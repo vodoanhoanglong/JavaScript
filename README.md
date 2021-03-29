@@ -1,25 +1,7 @@
 # JavaScript
-![Logo](https://media.vlpt.us/images/realryankim/post/a36e747d-318a-4f8d-89a1-587ee208d63d/JS.jpg)
-- Install VSCode or Sublime Text.
-- Try the code below.
-```JS
-<!DOCTYPE HTML>
-<html>
-
-<body>
-
-  <p>Before the script...</p>
-
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-
-  <p>...After the script.</p>
-
-</body>
-
-</html>
-```
+![Logo](![image](https://user-images.githubusercontent.com/67463870/112852787-72e5dc80-90d6-11eb-99a1-e35f94cb3f69.png)
+- Install MS SQL server 2019 or MySQL
+- Install SQL Complete
 
 | Contact | Information |
 |---------|-------------|
